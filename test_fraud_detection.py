@@ -1,3 +1,7 @@
+'''
+This script was used to test a single transaction
+'''
+
 import pandas as pd
 import numpy as np
 import joblib
